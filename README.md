@@ -55,17 +55,26 @@ Ensure the `config.json` file contains the correct model configuration details. 
 
 To identify hard drives that failed on a specific date (e.g., December 21, 2022), update the `cae_cnn_mixtral.py` script accordingly and run the prediction engine.
 
-### 7. Contributions
+### 7. Results
+
+The predictive model demonstrated the following performance metrics:
+
+- **F1 Score**: 0.85
+- **Precision**: 0.83
+- **Recall**: 0.87
+- **Accuracy**: 0.88
+
+### 8. Contributions
 
 - **Author**: Aniruddha Prabhash Chakravarty ([aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu))
 - **Collaborator**: Abhishek Bhardwaj ([abhishek.bhardwaj@sjsu.edu](mailto:abhishek.bhardwaj@sjsu.edu))
 - **Supervisor**: Dr. Saptarshi Sengupta
 
-### 8. Contact
+### 9. Contact
 
 For any queries or further information, please contact Aniruddha Prabhash Chakravarty via [aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu).
 
-### 9. License
+### 10. License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
