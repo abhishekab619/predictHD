@@ -66,13 +66,15 @@ The predictive model demonstrated the following performance metrics:
 
 ### 8. Contributions
 
-- **Author**: Aniruddha Prabhash Chakravarty ([aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu))
-- **Collaborator**: Abhishek Bhardwaj ([abhishek.bhardwaj@sjsu.edu](mailto:abhishek.bhardwaj@sjsu.edu))
+- **Authors**: Abhishek Bhardwaj ([abhishek.bhardwaj@sjsu.edu](mailto:abhishek.bhardwaj@sjsu.edu)), Aniruddha Prabhash Chakravarty ([aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu))
 - **Supervisor**: Dr. Saptarshi Sengupta
 
 ### 9. Contact
 
-For any queries or further information, please contact Aniruddha Prabhash Chakravarty via [aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu).
+For any queries or further information, please contact:
+
+- Abhishek Bhardwaj via [abhishek.bhardwaj@sjsu.edu](mailto:abhishek.bhardwaj@sjsu.edu)
+- Aniruddha Prabhash Chakravarty via [aniruddhaprabhash.chakravarty@sjsu.edu](mailto:aniruddhaprabhash.chakravarty@sjsu.edu)
 
 ### 10. License
 
